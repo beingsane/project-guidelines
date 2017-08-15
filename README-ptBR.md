@@ -1,13 +1,12 @@
-
+###### See also:
 [中文版](./README-zh.md)
 
 [<img src="./images/hive-red-logo.png" width="180" height="180">](http://wearehive.co.uk/)
 
-
 # Project Guidelines &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-> While developing a new project is like rolling on a green field for you, maintaining it is a potential dark twisted nightmare for someone else.
-Here's a list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects here at [hive](http://wearehive.co.uk).
-If you want to share a best practice, or think one of these guidelines should be removed, [feel free to share it with us](http://makeapullrequest.com).
+> Enquanto desenvolver um novo projeto é como rolar num gramado verde pra você, fazer a manutenção do mesmo pode vir a tornar-se um grande pesadelo para alguém.
+Aqui está uma lista de guias que nós descobrimos, escrevemos e reunimos que funciona (é o que a gente espera) bem para a maioria dos projetos JavaScript aqui na [hive](http://wearehive.co.uk).
+Se você quer compartilhar uma boa prática ou acha que algum dos pontos nesse guia precisam ser removidos, [sinta-se a vontade para compartilhar isso conosco](http://makeapullrequest.com).
 - [Git](#git)
     - [Some Git rules](#some-git-rules)
     - [Git workflow](#git-workflow)
